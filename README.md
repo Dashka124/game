@@ -22,8 +22,10 @@
 
 **Победа**
 
-Игра заканчивается, когда вы успешно находите все 8 пар. <img width="522" height="565" alt="image" src="https://github.com/user-attachments/assets/a84c2cc8-32b6-4522-9b4f-90c407619c83" />
+Игра заканчивается, когда вы успешно находите все 8 пар. 
+<img width="522" height="565" alt="image" src="https://github.com/user-attachments/assets/a84c2cc8-32b6-4522-9b4f-90c407619c83" />
 Как только на поле не остается скрытых значков, на экране появится поздравительное окно: "Вы подобрали все значки!" <img width="784" height="582" alt="image" src="https://github.com/user-attachments/assets/e7388f5a-83de-42dd-90e7-823a3ed99f25" />
+
 После нажатия «ОК» приложение автоматически закроется. 
 
 **Как запустить**
